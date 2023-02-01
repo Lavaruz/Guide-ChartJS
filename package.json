@@ -1,0 +1,20 @@
+{
+  "name": "guide-chartjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cubejs-client/core": "^0.31.46",
+    "chart.js": "^4.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
